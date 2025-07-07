@@ -2,17 +2,11 @@
 Changelog for package single_lidar_common_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.46.0 (2025-06-20)
+0.45.2 (2025-06-28)
 -------------------
-* Merge remote-tracking branch 'origin/main' into tmp/bot/bump_version_base
-* feat: add paramter for diag msg (`#1429 <https://github.com/autowarefoundation/autoware_launch/issues/1429>`_)
-  * feat: add paramter for diag msg
-  * chore: update mismatch threshold
-  * chore: udpate variable name
-  * chore: fix parameter naming
-  * chore: add cropbox parameter
-  ---------
-* Contributors: Yi-Hsiang Fang (Vivid), github-actions
+
+0.45.1 (2025-06-27)
+-------------------
 
 0.45.0 (2025-05-22)
 -------------------
