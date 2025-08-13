@@ -4,7 +4,7 @@
   <arg name="scenario_simulation" default="false"/>
   <arg name="launch_deprecated_api" default="$(var scenario_simulation)"/>
   <arg name="use_sim_time" default="false"/>
-  <arg name="vehicle_model" default="sample_vehicle"/>
+  <arg name="vehicle_model" default="scout_vehicle"/>
 
   <!-- Global parameters -->
   <group scoped="false">
